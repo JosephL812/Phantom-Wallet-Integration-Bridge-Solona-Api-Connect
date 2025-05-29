@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubNew\\2\\phantom1\\Phantom1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{590ED63D-6690-4D70-B101-D1AE3D4C2A20}|Pixo-Phantom-Wallet\\Form11\\Form1.csproj|d:\\githubnew\\2\\phantom1\\phantom1\\pixo-phantom-wallet\\form11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{590ED63D-6690-4D70-B101-D1AE3D4C2A20}|Pixo-Phantom-Wallet\\Form11\\Form1.csproj|solutionrelative:pixo-phantom-wallet\\form11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6EB999-11E9-4E9D-98F7-E9B0ED03691B}|Pixo-Phantom-Wallet\\Pixo-Phantom.csproj|d:\\githubnew\\2\\phantom1\\phantom1\\pixo-phantom-wallet\\eventhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6EB999-11E9-4E9D-98F7-E9B0ED03691B}|Pixo-Phantom-Wallet\\Pixo-Phantom.csproj|solutionrelative:pixo-phantom-wallet\\eventhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GithubNew\\2\\phantom1\\Phantom1\\Pixo-Phantom-Wallet\\Form11\\Form1.cs",
+              "RelativeDocumentMoniker": "Pixo-Phantom-Wallet\\Form11\\Form1.cs",
+              "ToolTip": "D:\\GithubNew\\2\\phantom1\\Phantom1\\Pixo-Phantom-Wallet\\Form11\\Form1.cs [Design]",
+              "RelativeToolTip": "Pixo-Phantom-Wallet\\Form11\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:39:28.24Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventHelper.cs",
+              "DocumentMoniker": "D:\\GithubNew\\2\\phantom1\\Phantom1\\Pixo-Phantom-Wallet\\EventHelper.cs",
+              "RelativeDocumentMoniker": "Pixo-Phantom-Wallet\\EventHelper.cs",
+              "ToolTip": "D:\\GithubNew\\2\\phantom1\\Phantom1\\Pixo-Phantom-Wallet\\EventHelper.cs",
+              "RelativeToolTip": "Pixo-Phantom-Wallet\\EventHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:39:24.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
